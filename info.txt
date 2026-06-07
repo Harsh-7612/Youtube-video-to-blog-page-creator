@@ -1,0 +1,6 @@
+we will create a yt video to blog page creator.
+
+In crewai we have:
+1. Agents
+2. Tasks
+3. Tools
